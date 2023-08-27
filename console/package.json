@@ -1,0 +1,11 @@
+{
+    "name": "epod-console",
+    "version": "0.0.1",
+    "description": "The ePod terminal client",
+    "main": "main.js",
+    "author": "Miguel V.",
+    "license": "BSD-3-Clause",
+    "dependencies": {
+        "xterm": "^5.2.1"
+    }
+}
